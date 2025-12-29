@@ -1,7 +1,7 @@
 ---
-id: the-basics
-title: The Basics
-sidebar_label: The Basics
+id: my-localhost
+title: My Localhost
+sidebar_label: Localhost
 slug: /
 ---
 
